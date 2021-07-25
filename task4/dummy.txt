@@ -1,0 +1,3 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+mansi      10256  0.0  0.0      0     0 pts/0    Z+   22:26   0:00 [q4] <defunct>
+mansi      10258  0.0  0.0  17532   728 pts/1    S+   22:26   0:00 grep --color=auto Z
